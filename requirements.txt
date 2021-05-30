@@ -1,4 +1,4 @@
-torchvision==0.2.1
+torchvision==0.1.2
 torch==1.0.0
 Flask_Bootstrap==3.3.7.1
 Flask_MySQLdb==0.2.0
